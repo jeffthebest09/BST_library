@@ -1,2 +1,2 @@
 BST_library
-Aggiunta la funzione di ricerca di un nodo con il metodo iterativo
+realizzazione della classe BST e Node tramite classi
